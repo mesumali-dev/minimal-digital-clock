@@ -8,7 +8,7 @@
 
 ---
 
-## ⏱️ Features
+## ⏱ Features
 
 - **Precision Seconds Rendering:** Real-time DOM clock synchronization via requestAnimationFrame/intervals.
 - **Format Toggle:** Seamless switching between 12-Hour AM/PM and 24-Hour Military time.
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 git clone https://github.com/mesumali-dev/minimal-digital-clock.git
@@ -26,5 +26,5 @@ cd minimal-digital-clock
 
 ---
 
-## 👨‍💻 Author
+## ‍ Author
 **Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
