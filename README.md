@@ -1,4 +1,4 @@
-# ⏰ Minimal Digital Clock — TypeScript Real-Time Clock
+# ⏰ Minimal Digital Clock | TypeScript Real-Time Clock
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/)
@@ -27,4 +27,4 @@ cd minimal-digital-clock
 ---
 
 ## 👨‍💻 Author
-**Syed Mesum Ali** — [@mesumali-dev](https://github.com/mesumali-dev)
+**Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
